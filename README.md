@@ -12,8 +12,8 @@
 <p align="center">
   <a href="#联系我"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#联系我"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-宝藏秘密基地Plus-lightgrey.svg" alt="公众号"></a>
-  <a href="https://juejin.cn/user/1204720476893848/posts"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://blog.csdn.net/OliverAAAAAA"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://juejin.cn/user/1204720476893848/posts" target="_blank" ><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://blog.csdn.net/OliverAAAAAA" target="_blank" ><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
 
 # 源码展示
