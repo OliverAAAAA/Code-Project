@@ -1543,7 +1543,7 @@
 
 ## Star History
 
-<a href="https://star-history.com/#OliverAAAAA/Code-Project&Date">
+<a href="https://github.com/OliverAAAAA/Code-Project">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=OliverAAAAA/Code-Project&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=OliverAAAAA/Code-Project&type=Date" />
