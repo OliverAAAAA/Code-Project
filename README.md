@@ -36,10 +36,20 @@
 
 **ps : 没链接的是还没写(耐心等待更哟)**
 
+- <a href="#SpringBoot项目">SpringBoot项目</a>
+
+- <a href="#小程序项目">小程序项目</a>
+
+- <a href="#SSM项目">SSM项目</a>
+
+
 ## 以下题目均有源码，获取源码请联系博主
 
 ### SpringBoot项目
   - [基于SpringBoot的在线问卷调查系统](./Java/springboot问卷调查系统-145.md)
+  - [Springboot+vue的餐饮管理系统](./Java/springboot+vue的餐饮管理系统-252.md)
+  - [基于JAVA的图书馆预约占座系统](./Java/springboot+vue的图书馆预约占座系统.md)
+  - [springboot飘香水果购物网站](./Java/springboot+vue的飘香水果购物网站.md)
   - JavaWeb的宠物商城网站设计与实现
   - javaweb的新能源充电系统
   - Javaweb药店管理系统的设计与实现
@@ -50,7 +60,6 @@
   - JS的个人云盘管理系统的设计与实现
   - Spring boot的名城小区物业管理系统
   - Spring Boot技术的卓越导师双选系统
-  - Springboot+vue的餐饮管理系统
   - SpringBoot+Vue的常规应急物资管理
   - SpringBoot+Vue的乡政府管理系统
   - springboot+vue的疫情隔离管理系统
@@ -144,7 +153,7 @@
   - springboot美食推荐商城的设计与实现
   - springboot民宿在线预定平台
   - SpringBoot母婴商城
-  - springboot飘香水果购物网站
+
 
   
 <details><summary><a>👉显示更多</a></summary></br> 
@@ -388,6 +397,7 @@
 
 ### 小程序项目
 
+  - [党建工作小秘书+ssm](./Java/ssm+小程序的党建考试系统354.md)
   - 基于Vue.js高校学生选课系统
   - 基于Vue的MES生产制造执行系统
   - 基于vue的工厂车间管理系统的设计
@@ -797,7 +807,6 @@
 - 宠物小程序+ssm
 - 传染病防控宣传系统的设计与实现+springboot
 - 傣族节日及民间故事推广小程序--论文+django
-- 党建工作小秘书+ssm
 - 党员之家服务系统小程序--论文+springboot
 - 答题小程序ssm
 - 大学生党务学习平台小程序--论文+springboot
@@ -872,7 +881,7 @@
 
 ### SSM项目
 
- - 基于web技术的税务门户网站的实现+vue
+- 基于web技术的税务门户网站的实现+vue
 - 基于web的音乐管理系统的设计与实现+vue
 - 基于web的学生考勤管理系统+vue
 - 基于web的学生就业管理系统的设计与实现+vue
@@ -991,7 +1000,6 @@
 - 基于JAVA的网上药品售卖系统+jsp
 - 基于java的网上手机销售系统+vue
 - 基于JAVA的网上订餐管理系统+vue
-- 基于JAVA的图书馆预约占座系统
 - 基于Java的通讯录管理系统的设计与实现+jsp
 - 基于java的实验室设备管理系统+jsp
 - 基于java的汽车维修保养智能预约系统+vue
